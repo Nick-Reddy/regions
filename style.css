@@ -1,0 +1,53 @@
+#asia{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+img{
+    height: 700px;
+    width: 700px;
+}
+#africa{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+#antartica{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+#austrailia{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+#europe{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+#na{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
+#sa{
+    background: linear-gradient(red,blue,green);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+}
